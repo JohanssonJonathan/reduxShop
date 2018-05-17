@@ -2,7 +2,7 @@
   "name": "reduxshop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JohanssonJonathan.github.io/reduxshop",
+  "homepage": "http://johanssonjonathan.github.io/reduxshop",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
@@ -14,7 +14,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
